@@ -12,3 +12,9 @@
 .nav-link {
     color: black;
 }
+
+#register {
+
+    color: red;
+    font-weight: 600;
+}
